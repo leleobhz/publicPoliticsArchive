@@ -1,0 +1,10 @@
+[
+    {
+        "execution": {
+            "start_time": "2023-06-28 19:01:05",
+            "execution_time": 5.96496057510376,
+            "tweets_fetched": 200,
+            "tweets_configured_to_be_requested": 200
+        }
+    }
+]

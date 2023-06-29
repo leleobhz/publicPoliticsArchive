@@ -1,0 +1,24 @@
+[
+    {
+        "tweet": {
+            "id": 1580042983361351680,
+            "creation_date": "2022-10-12 03:49:37",
+            "search_type": "User",
+            "search_string": "sorayasantos",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "@nalrijoss @Eynunes @rosecomenta @raissabarbosar Ridícula"
+        }
+    },
+    {
+        "tweet": {
+            "id": 1580042678955544576,
+            "creation_date": "2022-10-12 03:48:25",
+            "search_type": "User",
+            "search_string": "sorayasantos",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "@nalrijoss @raissabarbosar Pena de vc q defender esse homem"
+        }
+    }
+]

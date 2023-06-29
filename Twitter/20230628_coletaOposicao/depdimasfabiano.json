@@ -1,0 +1,123 @@
+[
+    {
+        "tweet": {
+            "id": 298513570495336449,
+            "creation_date": "2013-02-04 19:29:15",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 13,
+            "tweet_source": null,
+            "rendered_content": "Aqui em Brasilia/DF  Sessão de Abertura do Congresso Nacional"
+        }
+    },
+    {
+        "tweet": {
+            "id": 63348916904673281,
+            "creation_date": "2011-04-27 21:08:53",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 3,
+            "tweet_source": null,
+            "rendered_content": "O Plenário realiza neste momento sessão ordinária com a pauta trancada por 13 medidas provisórias."
+        }
+    },
+    {
+        "tweet": {
+            "id": 52813609654419458,
+            "creation_date": "2011-03-29 19:25:20",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 2,
+            "tweet_source": null,
+            "rendered_content": "A  sessão do Plenário de hoje, até às 19 horas, será convertida em homenagem ao ex-vice-presidente José Alencar, que faleceu nesta tarde"
+        }
+    },
+    {
+        "tweet": {
+            "id": 52801382150971392,
+            "creation_date": "2011-03-29 18:36:45",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 2,
+            "tweet_source": null,
+            "rendered_content": "neste momento o Plenário da Câmara faz um minuto de silêncio pela morte do ex-vice-presidente da República José Alencar."
+        }
+    },
+    {
+        "tweet": {
+            "id": 52800581395423232,
+            "creation_date": "2011-03-29 18:33:34",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "Aqui na Câmara dos Deputados o  sentimento é de tristeza. Sentiremos a sua falta.Meus sentimentos a toda família."
+        }
+    },
+    {
+        "tweet": {
+            "id": 52798138850881536,
+            "creation_date": "2011-03-29 18:23:51",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "Exemplo de luta, força e superação"
+        }
+    },
+    {
+        "tweet": {
+            "id": 52797903974047744,
+            "creation_date": "2011-03-29 18:22:55",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "Morre Ex-vice-Presidente da República José Alencar aos 79 anos"
+        }
+    },
+    {
+        "tweet": {
+            "id": 52452215868235776,
+            "creation_date": "2011-03-28 19:29:17",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 1,
+            "tweet_source": null,
+            "rendered_content": "Amanhã tem reunião da Comissão Especial da Reforma Política na  Câmara dos Deputados. Pauta:  sistemas eleitorais."
+        }
+    },
+    {
+        "tweet": {
+            "id": 50281589485207552,
+            "creation_date": "2011-03-22 19:43:59",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "Participo  as 17:30 de reunião da Bancada Mineira na  Câmara dos Deputados para tratar da indicação de nomes para composição da bancada"
+        }
+    },
+    {
+        "tweet": {
+            "id": 50280702469607424,
+            "creation_date": "2011-03-22 19:40:28",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "CCJ escolhe vice-presidentes para 2011"
+        }
+    },
+    {
+        "tweet": {
+            "id": 49896475353821184,
+            "creation_date": "2011-03-21 18:13:41",
+            "search_type": "User",
+            "search_string": "depdimasfabiano",
+            "like_number": 0,
+            "tweet_source": null,
+            "rendered_content": "Câmara pode votar reforma  do  processo penal esta semana"
+        }
+    }
+]

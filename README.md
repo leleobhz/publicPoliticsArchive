@@ -10,4 +10,4 @@ Cada subdiretório contém seu próprio README para explicar os arquivos que est
 
 ## Licenciamento
 
-Favor consultar o arquivo LICENCE contido neste reposítorio - salvo se especificado em cada subdiretório uma licença distinta da padrão.
+Favor consultar o arquivo [LICENSE](https://github.com/leleobhz/publicPoliticsArchive/blob/main/LICENSE) contido neste reposítorio. Caso algum subdiretório seja licenciado de forma distinta do repositório, a mesma será especificada em um arquivo LICENSE dentro do subdiretório.
